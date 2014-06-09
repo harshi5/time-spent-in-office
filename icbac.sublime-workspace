@@ -1,0 +1,545 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"succ",
+				"success	(?)"
+			],
+			[
+				"re",
+				"returnObj	(?)"
+			],
+			[
+				"suc",
+				"success	(?)"
+			],
+			[
+				"is_ar",
+				"is_archive"
+			],
+			[
+				"load",
+				"loadModel"
+			],
+			[
+				"thou",
+				"thought"
+			],
+			[
+				"th",
+				"thought"
+			],
+			[
+				"req",
+				"requestURI"
+			],
+			[
+				"ajax",
+				"ajaxgetUserID"
+			],
+			[
+				"us",
+				"userID"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"enty",
+				"entypo-big"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"check",
+				"checklist"
+			],
+			[
+				"c",
+				"checklist"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"che",
+				"checkbox"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"tc",
+				"tclist"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"html",
+				"htmlembedded"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"snipp",
+				"snippets"
+			],
+			[
+				"pr",
+				"pre-line"
+			],
+			[
+				"vie",
+				"ctrl.$viewValue"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"eee",
+				"E5E5E5"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"tem",
+				"templateUrl"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"no_",
+				"no_bold"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/harshit/Desktop/_dev_/projects/time-spent-in-office/README.md",
+		"/Users/harshit/Desktop/Devlopment/htdocs/public_html/fortune/excuses.json",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/css/websymbols/specimen_files/grid_12-825-55-15.css",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/js/highlighter/mode/z80/z80.js",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/js/app.js",
+		"/Users/harshit/Desktop/Devlopment/htdocs/ghumakkad/protected/config/main.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/views/thoughtcast/_view.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/components/Controller.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/views/layouts/header.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/views/thoughtcast/layout/sidebar.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/data/schema.mysql.sql",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/css/style.css",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/views/thoughtcast/index.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/ghumakkad/protected/components/Controller.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/ghumakkad/protected/controllers/SiteController.php",
+		"/Users/harshit/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/views/site/index.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/models/Thoughtcast.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/js/highlighter/addon/mode/loadmode.js",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/js/highlighter/mode/sql/sql.js",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/js/highlighter/lib/codemirror.css",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/css/bootstrap.css",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/js/highlighter/mode/xml/xml.js",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/js/highlighter/mode/clike/clike.js",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/js/highlighter/mode/clojure/clojure.js",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/js/highlighter/mode/asterisk/asterisk.js",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/js/highlighter/mode/apl/apl.js",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/config/main.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/views/site/explore.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/controllers/ThoughtcastController.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/views/site/login.php",
+		"/Users/harshit/Downloads/angular-highlightjs-master/angular-highlightjs.js",
+		"/Users/harshit/Desktop/Devlopment/htdocs/thoughtcast/js/controllers/thoughtcastControllers.js",
+		"/Users/harshit/Desktop/Devlopment/htdocs/highlight/index.html",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/views/thoughtcast/home.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/views/users/_form.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/components/UserIdentity.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/controllers/UsersController.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/views/users/view.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/views/layouts/footer.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/models/LoginForm.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/views/users/create.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/js/partials/snippets.html",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/views/users/_view.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/views/users/update.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/icanbeacoder/protected/models/Users.php",
+		"/Users/harshit/Desktop/Devlopment/htdocs/thoughtcast/js/app.js",
+		"/Users/harshit/Desktop/Devlopment/htdocs/thoughtcast/js/partials/snippets.html",
+		"/Users/harshit/Desktop/Devlopment/htdocs/thoughtcast/css/style.css",
+		"/Users/harshit/Desktop/Devlopment/htdocs/thoughtcast/index.html",
+		"/Users/harshit/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Applications/MAMP/htdocs/thoughtcast/css/style.css",
+		"/Applications/MAMP/htdocs/thoughtcast/style.css",
+		"/Applications/MAMP/htdocs/thoughtcast/js/services/app.js",
+		"/Users/harshit/Downloads/github-color-scheme-master/Github.tmTheme",
+		"/Applications/MAMP/htdocs/thoughtcast/index.html",
+		"/Users/harshit/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/harshit/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/harshit/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Applications/MAMP/htdocs/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".",
+			"title",
+			");\n",
+			"ccl",
+			"button",
+			"body",
+			"  \n",
+			"	$thought->date = new DateTime();",
+			"$date = new DateTime();",
+			";\n",
+			"\n		$thought=Thoughtcast::model()->find('id=:id', array(':postID'=>$_POST[\"id\"]));\n		echo $thought;",
+			"200px",
+			"entypo",
+			"ent",
+			"if",
+			"popover",
+			"absolute",
+			"popover",
+			"pagination",
+			"  ",
+			"excerpt",
+			"mime",
+			"Options",
+			"2px",
+			"\n    ",
+			" $scope.codemirrorLoaded = function(_editor,value){\n    // Editor part\n    var _doc = _editor.getDoc();\n    _doc.setValue(value);\n    // Options\n    _editor.setOption('firstLineNumber', 10);\n    _doc.markClean();\n};",
+			"{{thoughts[selectedIndex].description}}",
+			"left",
+			"{\n",
+			" ><",
+			">",
+			">\n",
+			"\"));\n",
+			">'+",
+			");\n",
+			">');\n",
+			"();\n",
+			");\n",
+			"template",
+			"	<",
+			"#search-box",
+			"email",
+			"table",
+			"gender",
+			"sign-in",
+			":hover",
+			"	\n",
+			"cache",
+			"form",
+			") ",
+			"vertical",
+			"../",
+			"..",
+			"font-fam",
+			"angular.module",
+			";\n",
+			"bold",
+			"Entypo",
+			"entypo",
+			"Entypo",
+			"entypo",
+			"Entypo",
+			"entypo",
+			"Entypo",
+			"entypo",
+			"Entypo",
+			"mini",
+			"\"auto_complete\"",
+			"\"auto_complete\":",
+			"auto_complete",
+			"auto",
+			">",
+			";\n",
+			"bold",
+			"span",
+			"li",
+			";\n",
+			"ubuntu",
+			"\";\n",
+			"ubuntu",
+			"div",
+			"\";\n",
+			"Menlo",
+			"boreder",
+			"expand"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"1",
+				"icanbeacoder/css/websymbols/specimen_files/grid_12-825-55-15.css"
+			],
+			[
+				"808",
+				"icanbeacoder/js/highlighter/mode/z80/z80.js"
+			],
+			[
+				"heade",
+				"icanbeacoder/protected/views/layouts/header.php"
+			],
+			[
+				"foo",
+				"protected/views/layouts/footer.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true
+}
